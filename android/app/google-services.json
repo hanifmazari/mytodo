@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "106002401896",
+    "firebase_url": "https://basic-calculator-cf139.firebaseio.com",
+    "project_id": "basic-calculator-cf139",
+    "storage_bucket": "basic-calculator-cf139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106002401896:android:0c03d491a1afffe4e909dd",
+        "android_client_info": {
+          "package_name": "com.example.mytodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106002401896-dd4u28j4l9pmogec3ua64vc4g05ogeba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgqs5fZ-y5moNK14SWLsqv-lDbIb2uA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106002401896-dd4u28j4l9pmogec3ua64vc4g05ogeba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106002401896-epichk4vrg71gs2svkk5up69r2rlh08n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaskapp.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106002401896:android:0732e787e1ed91fee909dd",
+        "android_client_info": {
+          "package_name": "com.mytaskapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106002401896-dd4u28j4l9pmogec3ua64vc4g05ogeba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgqs5fZ-y5moNK14SWLsqv-lDbIb2uA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106002401896-dd4u28j4l9pmogec3ua64vc4g05ogeba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106002401896-epichk4vrg71gs2svkk5up69r2rlh08n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaskapp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
